@@ -1,3 +1,6 @@
+-- Developed by Vinipux322 / https://discord.gg/8mEAy9a
+-- For FiveM users and Umbrella RP
+
 resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
 
 client_script 'client.lua'
